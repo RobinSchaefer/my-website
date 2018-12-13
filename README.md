@@ -2,6 +2,4 @@
 
 new entry
 
-another entry
-
-third entry
+entry edited on master branch
