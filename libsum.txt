@@ -1,6 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada auctor sem. 
-Morbi a maximus est. Nulla quis orci pellentesque, bibendum ex in, gravida quam. 
-Ut nec varius neque. Vestibulum consectetur ligula eu justo vulputate, non placerat quam lobortis. Etiam interdum ante risus, sit amet faucibus quam vulputate ut. 
-Nam placerat auctor nisi hendrerit laoreet. Sed ut pulvinar velit, eu vestibulum dolor. 
-Donec malesuada velit ut molestie eleifend. Vestibulum luctus ex quis velit eleifend elementum. 
-Phasellus pulvinar lobortis vehicula. 
